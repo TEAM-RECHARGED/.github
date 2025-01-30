@@ -4,6 +4,6 @@ ReCharged is a Half-Life 2 mod which aims to be the spiritual successor to the H
 45% Completed. You can find logs in the #gitlogs channel in our [Discord Server](https://discord.gg/N6Qfj7Uap5)
 # TEAM
 - GuestSneezePlayZ: Founder and Lead developer.
-- Daniexel: Programmer for weapons and ~~idea generator~~ that one guy with a brain
+- ~~Daniexel: Programme~~ Fired.
 - RoachOnGmod: Modeler And animator
 - ~~ThePixelMoon: Programmer for mapadd and other stuff~~ Fired.
